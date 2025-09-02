@@ -1,2 +1,2 @@
-# Cardiovascular Risk Prediction
+# Classification-Capstone-Project
 Classification-Capstone-Project
